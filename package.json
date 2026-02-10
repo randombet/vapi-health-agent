@@ -1,0 +1,13 @@
+{
+  "name": "vapi-health-agent",
+  "version": "1.0.0",
+  "description": "Health Check-In Voice Agent powered by Vapi",
+  "main": "deploy.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
